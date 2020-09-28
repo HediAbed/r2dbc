@@ -1,0 +1,7 @@
+server:
+  port: 8085
+spring:
+  rsocket:
+    server:
+      port: 7000
+      transport: tcp

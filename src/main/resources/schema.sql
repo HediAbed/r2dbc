@@ -1,0 +1,2 @@
+-- CREATE DATABASE test;
+CREATE TABLE user (id IDENTITY PRIMARY KEY, first_name VARCHAR(255), last_name VARCHAR(255) ,  mobile VARCHAR(255),  job VARCHAR(255));
